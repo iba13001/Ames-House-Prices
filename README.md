@@ -26,8 +26,6 @@ HousePrices_test.ipynb: The Python notebook used to process the test data set an
 imputation_test_set.csv: The imputation test data imported in the imputation.R code.
 imputed_test_data.csv: The imputed test data exported from the imputation.R code.
 
-predictions_ia.csv: The predicted house prices from the test data.
-
-
-
 imputation.R: The R code used to impute missing LotFrontage data using KNN Gower distance.
+
+predictions_ia.csv: The predicted house prices from the test data.
