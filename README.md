@@ -18,12 +18,12 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 
 data_description.txt: A description of the features in the datasets.
 
-HousePrices_train.ipynb: The Python notebook used to explore the data and to build and train the model.
-imputation_train_setcsv: The imputation test data imported in the imputation.R code.
+HousePrices_train.ipynb: The Python notebook used to explore the data and to build and train the model. <br />
+imputation_train_set.csv: The imputation test data imported in the imputation.R code. <br />
 imputed_train_data.csv: The imputed test data exported from the imputation.R code.
 
-HousePrices_test.ipynb: The Python notebook used to process the test data set and to predict the house prices.
-imputation_test_set.csv: The imputation test data imported in the imputation.R code.
+HousePrices_test.ipynb: The Python notebook used to process the test data set and to predict the house prices.<br />
+imputation_test_set.csv: The imputation test data imported in the imputation.R code.<br />
 imputed_test_data.csv: The imputed test data exported from the imputation.R code.
 
 imputation.R: The R code used to impute missing LotFrontage data using KNN Gower distance.
