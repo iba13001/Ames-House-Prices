@@ -8,7 +8,7 @@ This work was done as part of the Kaggle competition (House Prices - Advanced Re
 ### Model Description
 Gradient Boosting Regressor trees were used to train and to build the model. The predicted prices got a Root Mean Squared Logarithmic Error of 0.13426
 as calculated by Kaggle.
-[a link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+[a link](https://www.kaggle.com/ibrahimemadeldin/competitions)
 
 ### Reference
 
