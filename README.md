@@ -15,7 +15,7 @@ as calculated by Kaggle.
 
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education.
 
-### File Description
+### Files Description
 
 data_description.txt: A description of the features in the datasets.
 
