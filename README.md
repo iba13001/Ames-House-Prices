@@ -25,7 +25,9 @@ imputed_train_data.csv: The imputed train data exported from the imputation.R co
 
 HousePrices_test.ipynb: The Python notebook used to process the test data set and to predict the house prices.<br />
 imputation_test_set.csv: The imputation test data imported in the imputation.R code.<br />
-imputed_test_data.csv: The imputed test data exported from the imputation.R code.
+imputed_test_data.csv: The imputed test data exported from the imputation.R code.<br />
+model_data.csv. Processed train data (encoded ordinal features, dummified categorical features and deleted highly correlated features) that will be used to build the model in the test notebook.
+
 
 imputation.R: The R code used to impute missing LotFrontage data using KNN Gower distance.
 
