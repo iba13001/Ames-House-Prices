@@ -6,6 +6,7 @@ We will use a dataset of homes in Ames, Iowa to explores 79 variables and to bui
 This work was done as part of the Kaggle competition (House Prices - Advanced Regression Techniques)
 
 ### Model Description
+Missing LotFrontage data was imputed using KNN Gower distance.
 Gradient Boosting Regressor trees were used to train and to build the model. The predicted prices got a Root Mean Squared Logarithmic Error of 0.13426
 as calculated by Kaggle.
 [a link](https://www.kaggle.com/ibrahimemadeldin/competitions)
@@ -19,8 +20,8 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 data_description.txt: A description of the features in the datasets.
 
 HousePrices_train.ipynb: The Python notebook used to explore the data and to build and train the model. <br />
-imputation_train_set.csv: The imputation test data imported in the imputation.R code. <br />
-imputed_train_data.csv: The imputed test data exported from the imputation.R code.
+imputation_train_set.csv: The imputation train data imported in the imputation.R code. <br />
+imputed_train_data.csv: The imputed train data exported from the imputation.R code.
 
 HousePrices_test.ipynb: The Python notebook used to process the test data set and to predict the house prices.<br />
 imputation_test_set.csv: The imputation test data imported in the imputation.R code.<br />
