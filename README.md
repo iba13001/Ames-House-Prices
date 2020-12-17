@@ -11,6 +11,9 @@ Gradient Boosting Regressor trees were used to train and to build the model. The
 as calculated by Kaggle.
 [a link](https://www.kaggle.com/ibrahimemadeldin/competitions)
 
+### Future Recommendations
+Missing data in LotFrontage can be related to the LotConfig features because some interior lots may not have streets connected to them.
+
 ### Reference
 
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education.
