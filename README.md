@@ -12,7 +12,11 @@ as calculated by Kaggle.
 [a link](https://www.kaggle.com/ibrahimemadeldin/competitions)
 
 ### Future Recommendations
-Missing data in LotFrontage can be related to the LotConfig features because some interior lots may not have streets connected to them.
+- Delete any outliers.
+- Perform more exploratory data analysis—find patterns in the data.
+- Try multiple linear regression (Lasso, Ridge or Elastic-net). The linear regression conditions have to be checked first. 
+- Explore the importance of feature space more thoroughly—find all possible interactions.
+
 
 ### Reference
 
