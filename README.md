@@ -11,7 +11,7 @@ Gradient Boosting Regressor trees were used to train and to build the model. The
 as calculated by [Kaggle](https://www.kaggle.com/ibrahimemadeldin/competitions). 
 
 ### Feature Importance
-The most important 5 features are the overall quality of the house, the living area, the number of cars in garage and the exterior quality.
+The most important 5 features are the overall quality of the house, the above ground square footage, the available number of cars in garage, the basement square footage and the exterior quality.
 
 A detailed description of the model and the important features are described in the [slides deck](https://github.com/iba13001/Ames-House-Prices/blob/main/housing.pptx).
 
