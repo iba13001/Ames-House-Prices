@@ -7,9 +7,8 @@ This work was done as part of the Kaggle competition (House Prices - Advanced Re
 
 ### Model Description
 Missing LotFrontage data was imputed using KNN Gower distance.
-Gradient Boosting Regressor trees were used to train and to build the model. The predicted prices got a Root Mean Squared Logarithmic Error of 0.13426
-as calculated by Kaggle.
-[a link](https://www.kaggle.com/ibrahimemadeldin/competitions)
+Gradient Boosting Regressor trees were used to train and to build the model. The predicted prices got a Root Mean Squared Logarithmic Error of 0.13426 (89% accuracy on the test dataset).
+as calculated by [Kaggle](https://www.kaggle.com/ibrahimemadeldin/competitions). 
 
 ### Future Recommendations
 - Delete any outliers.
