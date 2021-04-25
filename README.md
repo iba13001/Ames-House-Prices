@@ -10,6 +10,9 @@ Missing LotFrontage data was imputed using KNN Gower distance.
 Gradient Boosting Regressor trees were used to train and to build the model. The predicted prices got a Root Mean Squared Logarithmic Error of 0.13426 (89% accuracy on the test dataset).
 as calculated by [Kaggle](https://www.kaggle.com/ibrahimemadeldin/competitions). 
 
+### Feature Importance
+The most important 5 features are the overall quality of the house, the living area, the number of cars in garage and the exterior quality.
+
 ### Future Recommendations
 - Delete any outliers.
 - Perform more exploratory data analysis—find patterns in the data.
