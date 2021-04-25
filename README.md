@@ -13,13 +13,13 @@ as calculated by [Kaggle](https://www.kaggle.com/ibrahimemadeldin/competitions).
 ### Feature Importance
 The most important 5 features are the overall quality of the house, the living area, the number of cars in garage and the exterior quality.
 
+A detailed description of the model and the important features are described in the [slides deck](https://github.com/iba13001/Ames-House-Prices/blob/main/housing.pptx).
+
 ### Future Recommendations
 - Delete any outliers.
 - Perform more exploratory data analysis—find patterns in the data.
 - Try multiple linear regression (Lasso, Ridge or Elastic-net). The linear regression conditions have to be checked first. 
 - Explore the importance of feature space more thoroughly—find all possible interactions.
-
-A detailed description of the model and the important features are described in the [slides deck](https://github.com/iba13001/Ames-House-Prices/blob/main/housing.pptx).
 
 ### Reference
 
